@@ -1,0 +1,7 @@
+scikit-learn==1.4.2
+torch
+category_encoders
+typeguard
+tqdm
+pandas=2.2.2
+matplotlib=3.9.0
