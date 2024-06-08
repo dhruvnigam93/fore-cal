@@ -1,7 +1,7 @@
 # Forecal
 
 Forecal is a machine learning project that benchmarks various calibration measures on 43 datasets from the UCI Machine
-Learning Repository. This project is developed by a team of machine learning software engineers at Google.
+Learning Repository. 
 
 ## Installation
 
